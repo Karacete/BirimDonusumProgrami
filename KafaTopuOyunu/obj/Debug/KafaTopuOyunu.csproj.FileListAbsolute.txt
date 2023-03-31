@@ -1,0 +1,16 @@
+D:\Desktop\ÖDEV\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\bin\Debug\KafaTopuOyunu.exe.config
+D:\Desktop\ÖDEV\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\bin\Debug\KafaTopuOyunu.exe
+D:\Desktop\ÖDEV\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\bin\Debug\KafaTopuOyunu.pdb
+D:\Desktop\ÖDEV\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\obj\Debug\KafaTopuOyunu.csproj.AssemblyReference.cache
+D:\Desktop\ÖDEV\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\obj\Debug\KafaTopuOyunu.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\ÖDEV\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\obj\Debug\KafaTopuOyunu.csproj.CoreCompileInputs.cache
+D:\Desktop\ÖDEV\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\obj\Debug\KafaTopuOyunu.exe
+D:\Desktop\ÖDEV\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\obj\Debug\KafaTopuOyunu.pdb
+D:\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\bin\Debug\KafaTopuOyunu.exe.config
+D:\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\bin\Debug\KafaTopuOyunu.exe
+D:\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\bin\Debug\KafaTopuOyunu.pdb
+D:\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\obj\Debug\KafaTopuOyunu.csproj.AssemblyReference.cache
+D:\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\obj\Debug\KafaTopuOyunu.csproj.SuggestedBindingRedirects.cache
+D:\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\obj\Debug\KafaTopuOyunu.csproj.CoreCompileInputs.cache
+D:\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\obj\Debug\KafaTopuOyunu.exe
+D:\NDP\Ödev\KafaTopuOyunu\KafaTopuOyunu\obj\Debug\KafaTopuOyunu.pdb
